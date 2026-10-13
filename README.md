@@ -11,4 +11,16 @@ A collection of Java solutions to DSA problems, focusing on problem-solving, alg
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thedehalatha/DSA/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/thedehalatha/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/thedehalatha/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/thedehalatha/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
