@@ -1,3 +1,5 @@
+//time complexity : O(n^2)
+//Auxiliary space complexity :O(1)
 public class p5 {
     public static void pattern5(int n) {
        
