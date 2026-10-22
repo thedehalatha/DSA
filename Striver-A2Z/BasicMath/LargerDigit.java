@@ -1,6 +1,6 @@
 //time complexity : O(log10(n))
 //space complexity :O(1)
-public class LargerDigit {
+public class Largerdigit {
     public static int larger(int n){
         n=Math.abs(n); // convert negative number to positive 
         int larger=0;
