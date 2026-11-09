@@ -27,4 +27,5 @@ A collection of Java solutions to DSA problems, focusing on problem-solving, alg
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/thedehalatha/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/thedehalatha/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
